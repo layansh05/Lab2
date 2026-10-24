@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "task6"
+rootProject.name = "task77"
 include(":app")
  
